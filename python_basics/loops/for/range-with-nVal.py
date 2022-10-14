@@ -1,7 +1,12 @@
 
-# execute code within the range at every nValue
+#**************************************************************************
+
+# execute code within the loop at every Nth value in the range
 
 # for index in range (start-val, end-val, nValue):
+
+#**************************************************************************
+
 
 # Ask user for brightness level
 print("What level of brightness is required?")
