@@ -1,7 +1,7 @@
 
 #**************************************************************************
 
-# execute code within the loop at every Nth value in the range
+# execute code within the loop at every Nth term in the range
 
 # for index in range (start-val, end-val, nValue):
 
